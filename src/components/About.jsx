@@ -3,9 +3,9 @@ export default function About() {
   return (
     <div
       id='about '
-      className='text-white py-20 px-5 md:px-14 lg:px-20 flex flex-col lg:flex-row gap-5 lg:items-center'
+      className='text-white py-20 px-5 md:px-14 lg:px-20 flex flex-col lg:flex-row gap-5 lg:items-center z-10'
     >
-      <div className='flex-1 '>
+      <div className='flex-1 z-10'>
         <div className='lg:max-w-[400px]'>
           <img width='100%' src={aboutImg} alt='' />
         </div>

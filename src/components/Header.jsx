@@ -1,11 +1,11 @@
 import logo from '../assets/logobg.jpeg';
 export default function Header() {
   return (
-    <div className='flex justify-between px-5 md:px-10 lg:px-14 max-w-[1440px] mx-auto pb-5 pt-10 text-white items-center border-b border-white/20'>
-      <div className='w-12 h-12 rounded-md overflow-hidden'>
+    <div className='z-10 flex justify-between px-5 md:px-10 lg:px-14 max-w-[1440px] mx-auto pb-5 pt-10 text-white items-center border-b border-white/20'>
+      <div className='w-12 h-12 rounded-md overflow-hidden z-10'>
         <img width='100%' height='100%' src={logo} alt='Logo' />
       </div>
-      <ul className='flex gap-10'>
+      <ul className='flex gap-10 z-10'>
         <li className='hidden lg:block'>
           <a className=' font-thin' href='#hero'>
             Home
