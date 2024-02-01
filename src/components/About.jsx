@@ -22,12 +22,13 @@ export default function About() {
           have changed. This year is the bulls rise 2024 and there is no better
           place to kick start it on-chain.
         </p>
-        
+
         <p className='font-thin'>
-          This defi space is a platform where many lives change and with the
-          launch of $KID we are giving the opportunity for SOL maxis to
-          experience a place where your very own story to financial freedom will
-          be written.
+          The defi space is a platform where many lives change, and with the
+          launch of $KID, we are giving the opportunity for degens to experience
+          a place where you create your very own story towards financial
+          freedom. What is a better place than having it all written in the
+          Diary of A Crypto Kid
         </p>
       </div>
     </div>
