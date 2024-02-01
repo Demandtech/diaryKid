@@ -4,7 +4,7 @@ export default function Tokenomic() {
   return (
     <div id='tokenomic' className='text-white  px-5 md:px-14 lg:px-20'>
       <h2 className='text-3xl mb-3'>Tokenomic</h2>
-      <div className='flex flex-col lg:flex-row flex-wrap gap-5 pb-20'>
+      <div className='flex flex-col lg:flex-row flex-wrap gap-5 pb-24'>
         <div className='text-xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <p className='text-xl'>Symbol</p>
           <p className='text-white/70'>$KID</p>
