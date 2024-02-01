@@ -1,0 +1,45 @@
+import logo from '../assets/logobg.jpeg';
+export default function Header() {
+  return (
+    <div className='flex justify-between px-5 md:px-10 lg:px-14 max-w-[1440px] mx-auto pb-5 pt-10 text-white items-center'>
+      <div className='w-12 h-12 rounded-md overflow-hidden'>
+        <img width='100%' height='100%' src={logo} alt='Logo' />
+      </div>
+      <ul className='flex gap-10'>
+        <li className='hidden lg:block'>
+          <a className=' font-thin' href=''>
+            Home
+          </a>
+        </li>
+        <li className='hidden lg:block'>
+          <a className=' font-thin' href=''>
+            About
+          </a>
+        </li>
+        <li>
+          <a className=' font-thin' href=''>
+            Tokenomic
+          </a>
+        </li>
+        <li>
+          <a className=' font-thin' href=''>
+            Twitter
+          </a>
+        </li>
+        <li className='hidden lg:block'>
+          <a className=' font-thin' href=''>
+            Chart
+          </a>
+        </li>
+        <li>
+          <a
+            className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
+            href=''
+          >
+            Join The Community
+          </a>
+        </li>
+      </ul>
+    </div>
+  );
+}
