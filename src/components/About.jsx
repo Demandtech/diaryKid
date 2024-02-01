@@ -11,7 +11,7 @@ export default function About() {
         </div>
       </div>
       <div className=' lg:text-right text-center flex-1 lg:w-1/2'>
-        <h2 className='mb-5 text-4xl lg:text-6xl  '>
+        <h2 className='mb-5 text-5xl lg:text-6xl  '>
           About{' '}
           <span className='drop-shadow-md drop-shadow-white'>
             DiaryOfCryptoKid
@@ -22,10 +22,7 @@ export default function About() {
           have changed. This year is the bulls rise 2024 and there is no better
           place to kick start it on-chain.
         </p>
-        <p className='font-thin mb-5'>
-          As Myro&apos;s devoted wife, ROCKIE Coin is a testament to the
-          enduring bond between Raj and his furry family members!
-        </p>
+        
         <p className='font-thin'>
           This defi space is a platform where many lives change and with the
           launch of $KID we are giving the opportunity for ETH maxis to

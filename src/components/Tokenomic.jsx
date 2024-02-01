@@ -4,7 +4,9 @@ import poster from '../assets/poster.webp';
 export default function Tokenomic() {
   return (
     <div id='tokenomic' className='text-white  px-5 md:px-14 lg:px-20'>
-      <h2 className='text-6xl mb-3'>Tokenomic</h2>
+      <h2 className='text-8xl mb-3 text-center md:text-left'>
+        Tokenomic
+      </h2>
       <div className='flex flex-col lg:flex-row flex-wrap gap-5 pb-24'>
         <div className='text-xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <h4 className='text-4xl'>Symbol</h4>
@@ -24,7 +26,7 @@ export default function Tokenomic() {
         </div>
       </div>
       <div className='z-10 py-10 flex justify-center'>
-        <img src={poster} alt='Poster'  className='z-10'/>
+        <img src={poster} alt='Poster' className='z-10' />
       </div>
       <div className='flex flex-col gap-5 lg:flex-row justify-between  text-white items-center pb-10'>
         <div className='w-12 h-12 rounded-md overflow-hidden'>
