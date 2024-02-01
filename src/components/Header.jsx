@@ -17,7 +17,7 @@ export default function Header() {
           </a>
         </li>
         <li>
-          <a className=' font-thin' href=''>
+          <a className=' font-thin' href='#tokenomic'>
             Tokenomic
           </a>
         </li>
