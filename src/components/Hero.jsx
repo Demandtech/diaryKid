@@ -7,8 +7,8 @@ export default function Hero() {
       className=' text-white px-5 md:px-14 lg:px-20 flex flex-col-reverse md:flex-row gap-10 pt-12 pb-10 lg:items-center border-b border-white/20'
     >
       <div>
-        <p>Welcome to</p>
-        <h1 className='text-4xl py-5'>DiaryOfCryptoKid</h1>
+        <h3 className='text-2xl'>Welcome to</h3>
+        <h1 className='text-6xl py-5'>DiaryOfCryptoKid</h1>
         <p className='font-thin'>
           Everyone has their own story to be told.
           <br />

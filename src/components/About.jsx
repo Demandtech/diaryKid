@@ -11,9 +11,9 @@ export default function About() {
         </div>
       </div>
       <div className=' lg:text-right text-center flex-1 lg:w-1/2'>
-        <h2 className='text-2xl mb-3 '>
+        <h2 className='mb-5 text-4xl lg:text-6xl  '>
           About{' '}
-          <span className='drop-shadow-md text-sh drop-shadow-white'>
+          <span className='drop-shadow-md drop-shadow-white'>
             DiaryOfCryptoKid
           </span>
         </h2>

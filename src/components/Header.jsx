@@ -5,7 +5,7 @@ export default function Header() {
       <div className='w-12 h-12 rounded-md overflow-hidden z-10'>
         <img width='100%' height='100%' src={logo} alt='Logo' />
       </div>
-      <ul className='flex gap-10 z-10'>
+      <ul className='flex gap-5 md:gap-10 z-10'>
         <li className='hidden lg:block'>
           <a className=' font-thin' href='#hero'>
             Home
@@ -17,7 +17,7 @@ export default function Header() {
           </a>
         </li>
         <li>
-          <a className=' font-thin' href='#tokenomic'>
+          <a className='hidden lg:block font-thin' href='#tokenomic'>
             Tokenomic
           </a>
         </li>
