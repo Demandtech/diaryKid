@@ -9,15 +9,15 @@ export default function Hero() {
         <p className='font-thin'>
           Rockie is the wife of Solana Co-Founder Raj Gokal’s dog Rocky!
         </p>
-        <div className='inline-flex flex-col md:flex-row gap-5 justify-center mt-5'>
+        <div className='flex md:inline-flex flex-col md:flex-row gap-5 justify-center mt-5'>
           <a
-            className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
+            className=' text-center px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
             href=''
           >
             Join The Community
           </a>
           <a
-            className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap bg-white text-black'
+            className=' text-center px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap bg-white text-black'
             href=''
           >
             Join The Community
