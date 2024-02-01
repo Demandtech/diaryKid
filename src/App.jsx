@@ -1,5 +1,7 @@
+import About from './components/About';
 import Header from './components/Header';
 import Hero from './components/Hero';
+import Tokenomic from './components/Tokenomic';
 
 export default function App() {
   return (
@@ -7,6 +9,8 @@ export default function App() {
       <Header />
       <div className='max-w-[1440px] mx-auto'>
         <Hero />
+        <About />
+        <Tokenomic />
       </div>
     </div>
   );
