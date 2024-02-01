@@ -14,7 +14,7 @@ export default function Tokenomic() {
         </div>
         <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <h4 className='text-4xl'>Tax</h4>
-          <h4 className='text-white/70 text-4xl'>0/0</h4>
+          <h4 className='text-white/70 text-4xl'>1/1</h4>
         </div>
         <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <h4 className='text-4xl'>Liquidity</h4>

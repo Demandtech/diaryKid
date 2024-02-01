@@ -25,7 +25,7 @@ export default function About() {
         
         <p className='font-thin'>
           This defi space is a platform where many lives change and with the
-          launch of $KID we are giving the opportunity for ETH maxis to
+          launch of $KID we are giving the opportunity for SOL maxis to
           experience a place where your very own story to financial freedom will
           be written.
         </p>
