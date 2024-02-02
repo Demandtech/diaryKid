@@ -4,9 +4,7 @@ import poster from '../assets/poster.webp';
 export default function Tokenomic() {
   return (
     <div id='tokenomic' className='text-white  px-5 md:px-14 lg:px-20'>
-      <h2 className='text-8xl mb-3 text-center md:text-left'>
-        Tokenomic
-      </h2>
+      <h2 className='text-8xl mb-3 text-center md:text-left'>Tokenomic</h2>
       <div className='flex flex-col lg:flex-row flex-wrap gap-5 pb-24'>
         <div className='text-xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <h4 className='text-4xl'>Symbol</h4>
@@ -34,7 +32,12 @@ export default function Tokenomic() {
         </div>
         <ul className='flex gap-5 justify-center lg:gap-10 flex-wrap items-center lg:flex-row '>
           <li className='px-5'>
-            <a className=' font-thin' href=''>
+            <a
+              className=' font-thin'
+              target='_blank'
+              rel='noreferrer'
+              href='https://x.com/diarycryptokid?s=21&t=ednzA6ZbXQEtkRFVtZ4LcA'
+            >
               Twitter
             </a>
           </li>
@@ -48,7 +51,7 @@ export default function Tokenomic() {
               className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
               href='https://t.me/diaryofacrypto_kid'
               target='_blank'
-            rel="noreferrer"
+              rel='noreferrer'
             >
               Join The Community
             </a>

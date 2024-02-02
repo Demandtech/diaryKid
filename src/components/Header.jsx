@@ -22,7 +22,12 @@ export default function Header() {
           </a>
         </li>
         <li>
-          <a className=' font-thin' href=''>
+          <a
+            className=' font-thin'
+            href='https://x.com/diarycryptokid?s=21&t=ednzA6ZbXQEtkRFVtZ4LcA'
+            target='_blank'
+            rel='noreferrer'
+          >
             Twitter
           </a>
         </li>
@@ -36,7 +41,7 @@ export default function Header() {
             className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
             href='https://t.me/diaryofacrypto_kid'
             target='_blank'
-            rel="noreferrer"
+            rel='noreferrer'
           >
             Join The Community
           </a>
