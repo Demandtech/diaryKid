@@ -6,7 +6,6 @@ export default function Tokenomic() {
     <div id='tokenomic' className='text-white  px-5 md:px-14 lg:px-20'>
       <h2 className='text-8xl mb-3 text-center md:text-left'>Tokenomic</h2>
       <div className='flex flex-col lg:flex-row flex-wrap gap-5 pb-24'>
-       
         <div className='text-xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 min-w-[300px] flex-1'>
           <h4 className='text-4xl'>Symbol</h4>
           <h4 className='text-white/70 text-4xl'>$KID</h4>
@@ -21,7 +20,9 @@ export default function Tokenomic() {
         </div>
         <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 flex-wrap min-w-[300px] w-full'>
           <h4 className='text-4xl'>Token Address</h4>
-          <h4 className='text-white/70 text-4xl'>5eKrZHHhvwHWooufe7uEcHnatrBfhosefMJK6LpaLhkj</h4>
+          <h4 className='text-white/70 text-2xl lg:text-4xl'>
+            5eKrZHHhvwHWooufe7uEcHnatrBfhosefMJK6LpaLhkj
+          </h4>
         </div>
       </div>
       <div className='z-10 py-10 flex justify-center'>
