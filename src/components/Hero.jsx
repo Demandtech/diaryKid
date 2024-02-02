@@ -19,11 +19,13 @@ export default function Hero() {
             className='z-10 text-center px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
             href=''
           >
-            Join The Community
+            BUY NOW!
           </a>
           <a
             className='z-10 text-center px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap bg-white text-black'
-            href=''
+            href='https://t.me/diaryofacrypto_kid'
+            target='_blank'
+            rel="noreferrer"
           >
             Join The Community
           </a>
