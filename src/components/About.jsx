@@ -1,4 +1,5 @@
-import aboutImg from '../assets/about.webp';
+import aboutImg from '../assets/about.jpg';
+
 export default function About() {
   return (
     <div
