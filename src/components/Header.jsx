@@ -34,7 +34,9 @@ export default function Header() {
         <li>
           <a
             className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
-            href=''
+            href='https://t.me/diaryofacrypto_kid'
+            target='_blank'
+            rel="noreferrer"
           >
             Join The Community
           </a>

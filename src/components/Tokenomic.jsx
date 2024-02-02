@@ -22,7 +22,7 @@ export default function Tokenomic() {
         </div>
         <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 flex-wrap min-w-[300px] w-full'>
           <h4 className='text-4xl'>Token Address</h4>
-          <h4 className='text-white/70 text-4xl'>0x0122354444444444444</h4>
+          <h4 className='text-white/70 text-4xl'>NOT YET RELEASED</h4>
         </div>
       </div>
       <div className='z-10 py-10 flex justify-center'>
@@ -46,7 +46,9 @@ export default function Tokenomic() {
           <li>
             <a
               className=' px-5 py-2 rounded-md overflow-hidden font-thin border border-white/70 whitespace-nowrap'
-              href=''
+              href='https://t.me/diaryofacrypto_kid'
+              target='_blank'
+            rel="noreferrer"
             >
               Join The Community
             </a>
