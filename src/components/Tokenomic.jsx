@@ -18,9 +18,9 @@ export default function Tokenomic() {
           <h4 className='text-4xl'>Liquidity</h4>
           <h4 className='text-white/70 text-4xl'>Burned Forever</h4>
         </div>
-        <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 flex-wrap min-w-[300px] w-full'>
+        <div className='text-2xl flex item-center justify-between border-2 border-white rounded-md px-4 py-3 flex-wrap min-w-[300px] w-full overflow-x-scroll'>
           <h4 className='text-4xl'>Token Address</h4>
-          <h4 className='text-white/70 text-2xl lg:text-4xl'>
+          <h4 className='text-white/70 lg:text-4xl'>
             5eKrZHHhvwHWooufe7uEcHnatrBfhosefMJK6LpaLhkj
           </h4>
         </div>
